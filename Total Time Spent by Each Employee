@@ -1,4 +1,6 @@
 Challenge 1:
+**LeetCode - Q1741. Find Total Time Spent by Each Employee
+
 Find the Total Time Spent by Each Employee in the office
 Table: Employees
 
@@ -62,4 +64,4 @@ group by emp_id,event_day
 
 
 
-**LeetCode - Q1741. Find Total Time Spent by Each Employee
+
